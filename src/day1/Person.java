@@ -8,6 +8,7 @@ public class Person implements Wonderla
 {
 	public static void main(String[] args)
 	{
+		System.out.println("Master Branch");
 		Person p1=new Person();
 		if(p1 instanceof Wonderla)
 		{
